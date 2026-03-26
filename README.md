@@ -1,10 +1,10 @@
 # 🚀 GIT CHEAT SHEET
 
 ## 🔧 1. Setup Awal (Sekali saja)
-
+```bash
 git config --global user.name "Nama Kamu"
 git config --global user.email "[email@kamu.com](mailto:email@kamu.com)"
-
+```
 ---
 
 ## 📁 2. Membuat Repo
